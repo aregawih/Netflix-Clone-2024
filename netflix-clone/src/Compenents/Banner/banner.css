@@ -7,7 +7,7 @@
 }
 .banner_contents {
   margin-left: 30px;
-  padding-top: 300px;
+  padding-top: 100px;
   /* height: 190px; */
 }
 .banner__title {
@@ -33,7 +33,7 @@
   border-radius: 0.2vw;
   padding: 1rem 3rem;
   margin-right: 2rem;
-  background-color: rgba(51, 51, 51, 0.5);
+  /* background-color: rgba(51, 51, 51, 0.5); */
 }
 .banner__button {
   color: #000;
@@ -41,7 +41,7 @@
 }
 .banner__buttons:hover {
   color: #000;
-  background-color: #c6c6c6;
+  /* background-color: #c6c6c6; */
   transition: all 0.2s;
 }
 .banner__fadeBottom {
